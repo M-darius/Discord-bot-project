@@ -24,7 +24,7 @@ let isPlaying = false;
 let currentBlindtest = null; // Déclaration de `currentBlindtest`
 
 const musicFiles = JSON.parse(fs.readFileSync('musicFiles.json', 'utf-8'));
-const blindtestFiles = JSON.parse(fs.readFileSync('blindtestFiles.json', 'utf-8'));
+const blindtestFiles = JSON.parse(fs.readFileSync('metadata.json', 'utf-8'));
 
 client.once('ready', () => {
     console.log(`Connecté en tant que ${client.user.tag}`);
