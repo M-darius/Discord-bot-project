@@ -1,0 +1,47 @@
+[
+    {
+        "name": "99",
+        "style": "anime",
+        "path": "./musics/99.mp3"
+    },
+    {
+        "name": "YOASOBI「アイドル」 Official Music Video",
+        "style": "anime",
+        "path": "./musics/YOASOBI「アイドル」 Official Music Video.mp3"
+    },
+    {
+        "name": "Jack in the Box Theme - Lethal Company - Extended Remix",
+        "style": "jeux",
+        "path": "./musics/Jack in the Box Theme - Lethal Company - Extended Remix.mp3"
+    },
+    {
+        "name": "bbno$ & Rich Brian - edamame (Official Video)",
+        "style": "pop",
+        "path": "./musics/bbno$ & Rich Brian - edamame (Official Video).mp3"
+    },
+    {
+        "name": "bbno$ - it boy (official music video)",
+        "style": "pop",
+        "path": "./musics/bbno$ - it boy (official music video).mp3"
+    },
+    {
+        "name": "Telephone",
+        "style": "unknown",
+        "path": "./musics/Telephone.mp3"
+    },
+    {
+        "name": "Love Me Like You Do",
+        "style": "unknown",
+        "path": "./musics/Love Me Like You Do (From \"Fifty Shades Of Grey\").mp3"
+    },
+    {
+        "name": "Pumped Up Kicks",
+        "style": "unknown",
+        "path": "./musics/Pumped Up Kicks.mp3"
+    },
+    {
+        "name": "La Seine",
+        "style": "unknown",
+        "path": "./musics/La Seine (Extrait de la bande originale un monstre à Paris).mp3"
+    }
+]

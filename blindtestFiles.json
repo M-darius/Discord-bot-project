@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Fire Force",
+        "theme": "anime",
+        "path": "./musics/Fire Force - Opening 1 | Inferno.mp3"
+    },
+    {
+        "name": "Call of The Night",
+        "theme": "anime",
+        "path": "./musics/TVアニメ『よふかしのうた』ノンクレジットOP 【Creepy Nuts「堕天」】| 毎週木曜日24時55分からフジテレビ\"ノイタミナ\"ほかにて放送中！.mp3"
+    },
+    {
+        "name": "The God of High School",
+        "theme": "anime",
+        "path": "./musics/The God of High School - Opening (HD).mp3"
+    },
+    {
+        "name": "Kaguya-sama: Love Is War",
+        "theme": "anime",
+        "path": "./musics/\"Kaguya-sama: Love Is War?\" Opening Theme (Limited Time Only).mp3"
+    },
+    {
+        "name": "Star Wars ",
+        "theme": "film",
+        "path": "./musics/star wars thème.mp3"
+    },
+    {
+        "name": "NCIS",
+        "theme": "serie",
+        "path": "./musics/Générique de NCIS.mp3"
+    },
+    {
+        "name": "Pirates des caraibes",
+        "theme": "film",
+        "path": "./musics/Pirates des caraibes musique.mp3"
+    },
+    {
+        "name": "Men In Black",
+        "theme": "film",
+        "path": "./musics/Will Smith - Men In Black (Video Version).mp3"
+    },
+    {
+        "name": "Les visiteurs",
+        "theme": "film",
+        "path": "./musics/Les visiteurs:- Enae volare (générique de fin).mp3"
+    },
+    {
+        "name": "FRIENDS",
+        "theme": "serie",
+        "path": "./musics/FRIENDS musique generique.mp3"
+    },
+    {
+        "name": "Inspecteur Gadget",
+        "theme": "dessin anime",
+        "path": "./musics/Générique Inspecteur Gadget.flv.mp3"
+    },
+    {
+        "name": "Les Ratz",
+        "theme": "dessin anime",
+        "path": "./musics/Les Ratz - Pas de Panique à bord (Clip officiel).mp3"
+    },
+    {
+        "name": "Winx Club",
+        "theme": "dessin anime",
+        "path": "./musics/Winx Club Générique français saison 1.mp3"
+    },
+    {
+        "name": "Totally Spies",
+        "theme": "dessin anime",
+        "path": "./musics/Totally Spies : Générique saisons 1 et 2.mp3"
+    },
+    {
+        "name": "Cigarette Duet",
+        "theme": "musique",
+        "path": "./musics/Cigarette Duet.mp3"
+    },
+    {
+        "name": "Sweet Dreams",
+        "theme": "musique",
+        "path": "./musics/Eurythmics, Annie Lennox, Dave Stewart - Sweet Dreams (Are Made Of This) (Official Video).mp3"
+    },
+    {
+        "name": "Cheap Thrills",
+        "theme": "musique",
+        "path": "./musics/Cheap Thrills.mp3"
+    },
+    {
+        "name": "La Seine",
+        "theme": "film",
+        "path": "./musics/La Seine (Extrait de la bande originale un monstre à Paris).mp3"
+    }
+]

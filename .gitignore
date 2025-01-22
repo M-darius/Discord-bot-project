@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Environnements
+.env
+
+config.json
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# IDEs et éditeurs
+.vscode/
+.idea/
+
+# Autres fichiers temporaires
+*.tmp
+*.bak
